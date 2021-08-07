@@ -1,0 +1,36 @@
+.textPic{
+
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+
+  .overpic {
+    position: absolute;
+    top: 40%;
+    right: 50%;
+    color: rgb(255, 255, 255);
+    font-family: 'Wire One', sans-serif;
+    
+    
+    
+  }
+ 
+
+  .fontt{
+
+    font-family: 'Wire One', sans-serif;
+    
+    
+  }
+
+  
+
+  .blackcol{
+
+    background-color: black;
+  }
+
+
+  
+  
